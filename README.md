@@ -8,4 +8,6 @@ Frontend nano degree program project from udacity
 - CSS3
 - JavaScript (ES6)
 
-# Developed by: Ahmed Ali
+##### Developed by:
+
+Ahmed Ali
