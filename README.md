@@ -1,6 +1,6 @@
 # Landing Page Project
 
-## frontend nanno degree program udacity
+Frontend nano degree program project from udacity
 
 ### Technologies
 

@@ -91,7 +91,7 @@ function toggleActiveClass() {
 
 }
 
-// Scroll to anchor ID using scrollTO event
+// Scroll to anchor ID using scrollIntoView event using smooth behavior
 navBarList.addEventListener('click', (e) => {
     e.preventDefault()
     if(e.target.classList.contains('menu__link')) {
@@ -111,8 +111,6 @@ navBarList.addEventListener('click', (e) => {
 
 // Build menu 
 buildNav()
-// Scroll to section on link click
-
 
 // Set sections as active
 toggleActiveClass()
